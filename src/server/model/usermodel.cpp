@@ -85,4 +85,3 @@ void UserModel::resetState()
         mysql.update(sql);
     }
 }
-

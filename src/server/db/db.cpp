@@ -70,4 +70,3 @@ MYSQL* MySQL::getConnection()
 {
     return _conn;
 }
-

@@ -120,4 +120,3 @@ vector<int> GroupModel::queryGroupUsers(int userid, int groupid)
     }
     return idVec;
 }
-

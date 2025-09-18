@@ -132,4 +132,3 @@ void Redis::init_notify_handler(function<void(int,string)> fn)
 {
     this->_notify_message_handler = fn;
 }
-

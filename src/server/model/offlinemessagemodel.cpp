@@ -55,4 +55,3 @@ vector<string> OfflineMsgModel::query(int userid)
     }
     return vec;
 }
-

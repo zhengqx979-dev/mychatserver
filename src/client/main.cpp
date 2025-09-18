@@ -579,4 +579,3 @@ string getCurrentTime()
             (int)ptm->tm_hour, (int)ptm->tm_min, (int)ptm->tm_sec);
     return std::string(date);
 }
-
