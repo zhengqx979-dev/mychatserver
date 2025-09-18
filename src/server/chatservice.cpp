@@ -355,3 +355,4 @@ void ChatService::handleRedisSubscribeMessage(int userid, string msg)
     // 存储该用户的离线消息
     _offlineMsgModel.insert(userid, msg);
 }
+

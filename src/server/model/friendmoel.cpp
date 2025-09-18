@@ -46,3 +46,4 @@ vector<User> FriendModel::query(int userid)
     }
     return vec;
 }
+
